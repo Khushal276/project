@@ -1,7 +1,7 @@
 
 # Accounts Service
 
-![Build Status](https://github.com/Khushal276/YOUR-REPO-NAME/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/Khushal276/project/actions/workflows/ci-build.yaml/badge.svg)
 
 ## Project Overview
 
