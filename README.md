@@ -1,13 +1,11 @@
 
-   # Accounts Service
+# DevOps Capstone
+![Build Status](https://github.com/Khushal276/project/actions/workflows/ci-build.yaml/badge.svg)
 
-   ![Build Status](https://github.com/Khushal276/project/actions/workflows/ci-build.yaml/badge.svg)
-
-   A REST API service for managing customer accounts, built with Flask. It uses GitHub Actions for continuous integration (linting and unit tests) and is deployed with Docker, Kubernetes and a Tekton CD pipeline.
+DevOps Capstone is a REST API accounts service built with Flask. It uses GitHub Actions for continuous integration (linting and unit tests) and is deployed with Docker, Kubernetes and a Tekton CD pipeline.
 
 ## Project Overview
 
-The Accounts Service is a REST API built with Flask for managing customer accounts. It supports creating, reading, updating, deleting and listing accounts.
 
 ## Features
 
