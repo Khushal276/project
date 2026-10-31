@@ -1,7 +1,9 @@
 
-# Accounts Service
+   # Accounts Service
 
-![Build Status](https://github.com/Khushal276/project/actions/workflows/ci-build.yaml/badge.svg)
+   ![Build Status](https://github.com/Khushal276/project/actions/workflows/ci-build.yaml/badge.svg)
+
+   A REST API service for managing customer accounts, built with Flask. It uses GitHub Actions for continuous integration (linting and unit tests) and is deployed with Docker, Kubernetes and a Tekton CD pipeline.
 
 ## Project Overview
 
