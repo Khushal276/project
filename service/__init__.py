@@ -1,1 +1,1 @@
-   """Accounts service package"""
+"""Accounts service package"""
